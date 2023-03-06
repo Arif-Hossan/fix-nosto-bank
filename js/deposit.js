@@ -1,5 +1,3 @@
-// const { getTextElementValueById,getInputFieldValueById,setTextElementValueById } = require('./utilities.js');
-
 // DRY ---> Do Not Repeat Yourself
 document.getElementById("btn-deposit").addEventListener("click", function () {
   /*
